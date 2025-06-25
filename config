@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = chatgpt@upload.com
+	name = ChatGPT Uploader
+[remote "origin"]
+	url = https://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@github.com/ArsamSohail/lambda-calculator.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
